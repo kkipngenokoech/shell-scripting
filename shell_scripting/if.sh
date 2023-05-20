@@ -1,6 +1,18 @@
 #/usr/bin/bash
 
 read -p "what is your age: " AGE
+if [[ -z $AGE ]] # -z flag to check if empty
+then 
+echo "error 404: age cannot be blank"
+exit 1
+fi
+
+if ! [[ $AGE =~ ^[0-9]+$ ]]
+then 
+echo "error 404: age must be a  number"
+exit 1
+fi
+
 read -p "what is your name: " NAME
 if [[ $AGE == 18 ]]
 then 
