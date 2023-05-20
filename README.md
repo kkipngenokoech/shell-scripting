@@ -20,3 +20,5 @@
 
 ### You can access the slides for the session through the following link:
 Slides [Link](https://docs.google.com/presentation/d/1z-eNXvZ1PA0gjYFvtOT-8iQTVprN-mnBOAzBXN7CoZI/edit?usp=sharing)
+
+Whatsapp invite:[Whatsapp link] (https://chat.whatsapp.com/KhRvmfhRB6S5TdRdSxqXcU)
